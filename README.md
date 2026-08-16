@@ -20,11 +20,11 @@
 - ESP32 Development Board
 - SG90 Mini Servo Motor
 - LED
-- 220Ω/330Ω resistor
+- 220Ω resistor
 - Breadboard
 - Jumper wires
-- Laptop/Phone
-- Wi-Fi hotspot/router
+- Laptop
+- Wi-Fi hotspot
 
 ## Pin Connections
 
